@@ -1,3 +1,7 @@
+'''HARMANJOT SINGH (ProjAY)'''
+'''Dr.Suresh Chandra Satpathy'''
+''''KIIT UNIVERSITY''''
+
 import sys
 import tkinter as tk
 from tkinter import ttk
